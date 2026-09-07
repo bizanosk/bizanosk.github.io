@@ -1,0 +1,14 @@
+For me to remember...
+
+20260810 -- 20:29
+
+*[HIGH] Removed polyfil vulnerability on research.html.
+*[MEDIUM] Corrected dimensions of sidenavbar, content, margins corrected.
+*[MEDIUM] Corrected meta tag for mobile view. Corrected font justification and size for all type of screens.
+*[LOW] Double instance of MSc PDF removed on research.html.
+*[LOW] target="_blank" on all <a href> on notes.html.
+*[LOW] Renewed contact.html.
+*[LOW] Added button functionality.
+*[LOW] Sitemap updated.
+
+
